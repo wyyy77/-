@@ -45,7 +45,7 @@ const outCode = script.generate();
 ### Out
 
 ```javascript
-const a = 1;
+const a = 2;
 const b = 1;
 ```
 
